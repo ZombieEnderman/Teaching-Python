@@ -1,2 +1,2 @@
-# teaching-code
-這裡是教學性程式碼存放處。
+# Teaching-Python
+這裡是Python教學性程式碼存放處。
